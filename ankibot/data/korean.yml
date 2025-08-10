@@ -1,0 +1,350 @@
+list:
+  - {"question": 사람, "answer": person, "group": noun}
+  - {"question": 남자, "answer": man, "group": noun}
+  - {"question": 여자, "answer": woman, "group": noun}
+  - {"question": 아이, "answer": child, "group": noun}
+  - {"question": 친구, "answer": friend, "group": noun}
+  - {"question": 가족, "answer": family, "group": noun}
+  - {"question": 어머니, "answer": mother, "group": noun}
+  - {"question": 아버지, "answer": father, "group": noun}
+  - {"question": 형, "answer": older brother (male speaker), "group": noun}
+  - {"question": 오빠, "answer": older brother (female speaker), "group": noun}
+  - {"question": 누나, "answer": older sister (male speaker), "group": noun}
+  - {"question": 언니, "answer": older sister (female speaker), "group": noun}
+  - {"question": 아들, "answer": son, "group": noun}
+  - {"question": 딸, "answer": daughter, "group": noun}
+  - {"question": 학생, "answer": student, "group": noun}
+  - {"question": 선생님, "answer": teacher, "group": noun}
+  - {"question": 회사, "answer": company, "group": noun}
+  - {"question": 직원, "answer": employee, "group": noun}
+  - {"question": 사장, "answer": boss, "group": noun}
+  - {"question": 집, "answer": house/home, "group": noun}
+  - {"question": 방, "answer": room, "group": noun}
+  - {"question": 부엌, "answer": kitchen, "group": noun}
+  - {"question": 화장실, "answer": bathroom, "group": noun}
+  - {"question": 학교, "answer": school, "group": noun}
+  - {"question": 병원, "answer": hospital, "group": noun}
+  - {"question": 식당, "answer": restaurant, "group": noun}
+  - {"question": 가게, "answer": store/shop, "group": noun}
+  - {"question": 시장, "answer": market, "group": noun}
+  - {"question": 은행, "answer": bank, "group": noun}
+  - {"question": 공원, "answer": park, "group": noun}
+  - {"question": 도로, "answer": road, "group": noun}
+  - {"question": 차, "answer": car, "group": noun}
+  - {"question": 버스, "answer": bus, "group": noun}
+  - {"question": 기차, "answer": train, "group": noun}
+  - {"question": 비행기, "answer": airplane, "group": noun}
+  - {"question": 배, "answer": boat, "group": noun}
+  - {"question": 휴대폰, "answer": mobile phone, "group": noun}
+  - {"question": 컴퓨터, "answer": computer, "group": noun}
+  - {"question": 책, "answer": book, "group": noun}
+  - {"question": 신문, "answer": newspaper, "group": noun}
+  - {"question": 편지, "answer": letter, "group": noun}
+  - {"question": 사진, "answer": photo, "group": noun}
+  - {"question": 문, "answer": door, "group": noun}
+  - {"question": 창문, "answer": window, "group": noun}
+  - {"question": 의자, "answer": chair, "group": noun}
+  - {"question": 책상, "answer": desk, "group": noun}
+  - {"question": 침대, "answer": bed, "group": noun}
+  - {"question": 옷, "answer": clothes, "group": noun}
+  - {"question": 신발, "answer": shoes, "group": noun}
+  - {"question": 가방, "answer": bag, "group": noun}
+  - {"question": 모자, "answer": hat, "group": noun}
+  - {"question": 음식, "answer": food, "group": noun}
+  - {"question": 물, "answer": water, "group": noun}
+  - {"question": 밥, "answer": rice/meal, "group": noun}
+  - {"question": 빵, "answer": bread, "group": noun}
+  - {"question": 과일, "answer": fruit, "group": noun}
+  - {"question": 야채, "answer": vegetable, "group": noun}
+  - {"question": 고기, "answer": meat, "group": noun}
+  - {"question": 생선, "answer": fish, "group": noun}
+  - {"question": 우유, "answer": milk, "group": noun}
+  - {"question": 커피, "answer": coffee, "group": noun}
+  - {"question": 차, "answer": tea, "group": noun}
+  - {"question": 맥주, "answer": beer, "group": noun}
+  - {"question": 술, "answer": alcohol, "group": noun}
+  - {"question": 아침, "answer": breakfast, "group": noun}
+  - {"question": 점심, "answer": lunch, "group": noun}
+  - {"question": 저녁, "answer": dinner/supper, "group": noun}
+  - {"question": 날, "answer": day, "group": noun}
+  - {"question": 오늘, "answer": today, "group": noun}
+  - {"question": 어제, "answer": yesterday, "group": noun}
+  - {"question": 내일, "answer": tomorrow, "group": noun}
+  - {"question": 아침, "answer": morning, "group": noun}
+  - {"question": 오후, "answer": afternoon, "group": noun}
+  - {"question": 저녁, "answer": evening, "group": noun}
+  - {"question": 밤, "answer": night, "group": noun}
+  - {"question": 시간, "answer": time, "group": noun}
+  - {"question": 시, "answer": hour, "group": noun}
+  - {"question": 분, "answer": minute, "group": noun}
+  - {"question": 초, "answer": second, "group": noun}
+  - {"question": 날씨, "answer": weather, "group": noun}
+  - {"question": 비, "answer": rain, "group": noun}
+  - {"question": 눈, "answer": snow, "group": noun}
+  - {"question": 해, "answer": sun, "group": noun}
+  - {"question": 달, "answer": moon, "group": noun}
+  - {"question": 별, "answer": star, "group": noun}
+  - {"question": 꽃, "answer": flower, "group": noun}
+  - {"question": 나무, "answer": tree, "group": noun}
+  - {"question": 산, "answer": mountain, "group": noun}
+  - {"question": 바다, "answer": sea, "group": noun}
+  - {"question": 강, "answer": river, "group": noun}
+  - {"question": 섬, "answer": island, "group": noun}
+  - {"question": 색, "answer": color, "group": noun}
+  - {"question": 빨강, "answer": red, "group": noun}
+  - {"question": 파랑, "answer": blue, "group": noun}
+  - {"question": 노랑, "answer": yellow, "group": noun}
+  - {"question": 초록, "answer": green, "group": noun}
+  - {"question": 하얀, "answer": white, "group": noun}
+  - {"question": 검정, "answer": black, "group": noun}
+  - {"question": 회색, "answer": gray, "group": noun}
+  - {"question": 돈, "answer": money, "group": noun}
+  - {"question": 가격, "answer": price, "group": noun}
+  - {"question": 문제, "answer": problem, "group": noun}
+  - {"question": 일, "answer": work, "group": noun}
+  - {"question": 취미, "answer": hobby, "group": noun}
+  - {"question": 음악, "answer": music, "group": noun}
+  - {"question": 영화, "answer": movie, "group": noun}
+  - {"question": 드라마, "answer": drama, "group": noun}
+  - {"question": 게임, "answer": game, "group": noun}
+  - {"question": 스포츠, "answer": sports, "group": noun}
+  - {"question": 축구, "answer": soccer, "group": noun}
+  - {"question": 야구, "answer": baseball, "group": noun}
+  - {"question": 농구, "answer": basketball, "group": noun}
+  - {"question": 테니스, "answer": tennis, "group": noun}
+  - {"question": 여행, "answer": travel, "group": noun}
+  - {"question": 사진, "answer": photo, "group": noun}
+  - {"question": 춤, "answer": dance, "group": noun}
+  - {"question": 노래, "answer": song, "group": noun}
+  - {"question": 공, "answer": ball, "group": noun}
+  - {"question": 편의점, "answer": convenience store, "group": noun}
+  - {"question": 약국, "answer": pharmacy, "group": noun}
+  - {"question": 병, "answer": medicine, "group": noun}
+  - {"question": 약약, "answer": medicine, "group": noun}
+  - {"question": 교회, "answer": church, "group": noun}
+  - {"question": 사원, "answer": temple, "group": noun}
+  - {"question": 문화, "answer": culture, "group": noun}
+  - {"question": 역사, "answer": history, "group": noun}
+  - {"question": 언어, "answer": language, "group": noun}
+  - {"question": 한국, "answer": Korea, "group": noun}
+  - {"question": 한국어, "answer": Korean language, "group": noun}
+  - {"question": 영어, "answer": English, "group": noun}
+  - {"question": 중국어, "answer": Chinese language, "group": noun}
+  - {"question": 일본어, "answer": Japanese language, "group": noun}
+  - {"question": 외국, "answer": foreign country, "group": noun}
+  - {"question": 외국인, "answer": foreigner, "group": noun}
+  - {"question": 도시, "answer": city, "group": noun}
+  - {"question": 마을, "answer": village, "group": noun}
+  - {"question": 시골, "answer": countryside, "group": noun}
+  - {"question": 주소, "answer": address, "group": noun}
+  - {"question": 전화, "answer": phone, "group": noun}
+  - {"question": 번호, "answer": number, "group": noun}
+  - {"question": 이름, "answer": name, "group": noun}
+  - {"question": 성, "answer": surname, "group": noun}
+  - {"question": 나이, "answer": age, "group": noun}
+  - {"question": 생일, "answer": birthday, "group": noun}
+  - {"question": 취업, "answer": employment, "group": noun}
+  - {"question": 면접, "answer": interview, "group": noun}
+  - {"question": 회의, "answer": meeting, "group": noun}
+  - {"question": 계획, "answer": plan, "group": noun}
+  - {"question": 약속, "answer": appointment, "group": noun}
+  - {"question": 이유, "answer": reason, "group": noun}
+  - {"question": 방법, "answer": method, "group": noun}
+  - {"question": 시작, "answer": start, "group": noun}
+  - {"question": 끝, "answer": end, "group": noun}
+  - {"question": 하다, "answer": to do, "group": verb}
+  - {"question": 있다, "answer": to be (exist), "group": verb}
+  - {"question": 없다, "answer": to not be (exist), "group": verb}
+  - {"question": 되다, "answer": to become, "group": verb}
+  - {"question": 가다, "answer": to go, "group": verb}
+  - {"question": 오다, "answer": to come, "group": verb}
+  - {"question": 보다, "answer": to see/look/watch, "group": verb}
+  - {"question": 먹다, "answer": to eat, "group": verb}
+  - {"question": 마시다, "answer": to drink, "group": verb}
+  - {"question": 읽다, "answer": to read, "group": verb}
+  - {"question": 쓰다, "answer": to write/use, "group": verb}
+  - {"question": 만들다, "answer": to make, "group": verb}
+  - {"question": 사다, "answer": to buy, "group": verb}
+  - {"question": 팔다, "answer": to sell, "group": verb}
+  - {"question": 주다, "answer": to give, "group": verb}
+  - {"question": 받다, "answer": to receive, "group": verb}
+  - {"question": 열다, "answer": to open, "group": verb}
+  - {"question": 닫다, "answer": to close, "group": verb}
+  - {"question": 타다, "answer": to ride, "group": verb}
+  - {"question": 걷다, "answer": to walk, "group": verb}
+  - {"question": 달리다, "answer": to run, "group": verb}
+  - {"question": 앉다, "answer": to sit, "group": verb}
+  - {"question": 서다, "answer": to stand, "group": verb}
+  - {"question": 자다, "answer": to sleep, "group": verb}
+  - {"question": 일어나다, "answer": to wake up/get up, "group": verb}
+  - {"question": 공부하다, "answer": to study, "group": verb}
+  - {"question": 일하다, "answer": to work, "group": verb}
+  - {"question": 운동하다, "answer": to exercise, "group": verb}
+  - {"question": 쉬다, "answer": to rest, "group": verb}
+  - {"question": 놀다, "answer": to play, "group": verb}
+  - {"question": 말하다, "answer": to speak/talk, "group": verb}
+  - {"question": 듣다, "answer": to listen/hear, "group": verb}
+  - {"question": 생각하다, "answer": to think, "group": verb}
+  - {"question": 알다, "answer": to know, "group": verb}
+  - {"question": 모르다, "answer": to not know, "group": verb}
+  - {"question": 기억하다, "answer": to remember, "group": verb}
+  - {"question": 잊다, "answer": to forget, "group": verb}
+  - {"question": 사랑하다, "answer": to love, "group": verb}
+  - {"question": 좋아하다, "answer": to like, "group": verb}
+  - {"question": 싫어하다, "answer": to dislike, "group": verb}
+  - {"question": 필요하다, "answer": to need, "group": verb}
+  - {"question": 원하다, "answer": to want, "group": verb}
+  - {"question": 도와주다, "answer": to help, "group": verb}
+  - {"question": 기다리다, "answer": to wait, "group": verb}
+  - {"question": 사용하다, "answer": to use, "group": verb}
+  - {"question": 전화하다, "answer": to call, "group": verb}
+  - {"question": 사진을 찍다, "answer": to take a picture, "group": verb}
+  - {"question": 여행하다, "answer": to travel, "group": verb}
+  - {"question": 요리하다, "answer": to cook, "group": verb}
+  - {"question": 청소하다, "answer": to clean, "group": verb}
+  - {"question": 준비하다, "answer": to prepare, "group": verb}
+  - {"question": 시작하다, "answer": to start, "group": verb}
+  - {"question": 끝나다, "answer": to end, "group": verb}
+  - {"question": 열심히 하다, "answer": to work hard, "group": verb}
+  - {"question": 묻다, "answer": to ask, "group": verb}
+  - {"question": 대답하다, "answer": to answer, "group": verb}
+  - {"question": 웃다, "answer": to smile/laugh, "group": verb}
+  - {"question": 울다, "answer": to cry, "group": verb}
+  - {"question": 보내다, "answer": to send, "group": verb}
+  - {"question": 잡다, "answer": to catch, "group": verb}
+  - {"question": 놓다, "answer": to put/place, "group": verb}
+  - {"question": 넣다, "answer": to insert, "group": verb}
+  - {"question": 빼다, "answer": to remove, "group": verb}
+  - {"question": 입다, "answer": to wear (clothes), "group": verb}
+  - {"question": 벗다, "answer": to take off (clothes), "group": verb}
+  - {"question": 신다, "answer": to wear (shoes), "group": verb}
+  - {"question": 쓰다, "answer": to wear (hat), "group": verb}
+  - {"question": 만나다, "answer": to meet, "group": verb}
+  - {"question": 헤어지다, "answer": to part/break up, "group": verb}
+  - {"question": 들어가다, "answer": to enter, "group": verb}
+  - {"question": 나오다, "answer": to come out, "group": verb}
+  - {"question": 나가다, "answer": to go out, "group": verb}
+  - {"question": 돌아가다, "answer": to return, "group": verb}
+  - {"question": 나타나다, "answer": to appear, "group": verb}
+  - {"question": 사라지다, "answer": to disappear, "group": verb}
+  - {"question": 시도하다, "answer": to try, "group": verb}
+  - {"question": 성공하다, "answer": to succeed, "group": verb}
+  - {"question": 실패하다, "answer": to fail, "group": verb}
+  - {"question": 변하다, "answer": to change, "group": verb}
+  - {"question": 계속하다, "answer": to continue, "group": verb}
+  - {"question": 멈추다, "answer": to stop, "group": verb}
+  - {"question": 걱정하다, "answer": to worry, "group": verb}
+  - {"question": 설명하다, "answer": to explain, "group": verb}
+  - {"question": 초대하다, "answer": to invite, "group": verb}
+  - {"question": 운전하다, "answer": to drive, "group": verb}
+  - {"question": 쇼핑하다, "answer": to shop, "group": verb}
+  - {"question": 결혼하다, "answer": to marry, "group": verb}
+  - {"question": 이혼하다, "answer": to divorce, "group": verb}
+  - {"question": 태어나다, "answer": to be born, "group": verb}
+  - {"question": 죽다, "answer": to die, "group": verb}
+  - {"question": 살다, "answer": to live, "group": verb}
+  - {"question": 보이다, "answer": to be seen, "group": verb}
+  - {"question": 들리다, "answer": to be heard, "group": verb}
+  - {"question": 생기다, "answer": to occur/happen, "group": verb}
+  - {"question": 쓰이다, "answer": to be used, "group": verb}
+  - {"question": 열리다, "answer": to be opened, "group": verb}
+  - {"question": 닫히다, "answer": to be closed, "group": verb}
+  - {"question": 좋다, "answer": good, "group": adjective}
+  - {"question": 나쁘다, "answer": bad, "group": adjective}
+  - {"question": 크다, "answer": big, "group": adjective}
+  - {"question": 작다, "answer": small, "group": adjective}
+  - {"question": 많다, "answer": many/much, "group": adjective}
+  - {"question": 적다, "answer": few/little, "group": adjective}
+  - {"question": 길다, "answer": long, "group": adjective}
+  - {"question": 짧다, "answer": short, "group": adjective}
+  - {"question": 빠르다, "answer": fast, "group": adjective}
+  - {"question": 느리다, "answer": slow, "group": adjective}
+  - {"question": 비싸다, "answer": expensive, "group": adjective}
+  - {"question": 싸다, "answer": cheap, "group": adjective}
+  - {"question": 뜨겁다, "answer": hot (object), "group": adjective}
+  - {"question": 차갑다, "answer": cold (object), "group": adjective}
+  - {"question": 덥다, "answer": hot (weather), "group": adjective}
+  - {"question": 춥다, "answer": cold (weather), "group": adjective}
+  - {"question": 아프다, "answer": sick/painful, "group": adjective}
+  - {"question": 건강하다, "answer": healthy, "group": adjective}
+  - {"question": 쉽다, "answer": easy, "group": adjective}
+  - {"question": 어렵다, "answer": difficult, "group": adjective}
+  - {"question": 예쁘다, "answer": pretty, "group": adjective}
+  - {"question": 아름답다, "answer": beautiful, "group": adjective}
+  - {"question": 잘생기다, "answer": handsome, "group": adjective}
+  - {"question": 귀엽다, "answer": cute, "group": adjective}
+  - {"question": 깨끗하다, "answer": clean, "group": adjective}
+  - {"question": 더럽다, "answer": dirty, "group": adjective}
+  - {"question": 무겁다, "answer": heavy, "group": adjective}
+  - {"question": 가볍다, "answer": light (weight), "group": adjective}
+  - {"question": 배고프다, "answer": hungry, "group": adjective}
+  - {"question": 배부르다, "answer": full (from eating), "group": adjective}
+  - {"question": 졸리다, "answer": sleepy, "group": adjective}
+  - {"question": 즐겁다, "answer": enjoyable, "group": adjective}
+  - {"question": 슬프다, "answer": sad, "group": adjective}
+  - {"question": 행복하다, "answer": happy, "group": adjective}
+  - {"question": 불행하다, "answer": unhappy, "group": adjective}
+  - {"question": 바쁘다, "answer": busy, "group": adjective}
+  - {"question": 한가하다, "answer": free (not busy), "group": adjective}
+  - {"question": 위험하다, "answer": dangerous, "group": adjective}
+  - {"question": 안전하다, "answer": safe, "group": adjective}
+  - {"question": 중요하다, "answer": important, "group": adjective}
+  - {"question": 필요하다, "answer": necessary, "group": adjective}
+  - {"question": 유명하다, "answer": famous, "group": adjective}
+  - {"question": 똑똑하다, "answer": smart, "group": adjective}
+  - {"question": 어리다, "answer": young, "group": adjective}
+  - {"question": 늙다, "answer": old (person), "group": adjective}
+  - {"question": 새롭다, "answer": new, "group": adjective}
+  - {"question": 오래되다, "answer": old (object), "group": adjective}
+  - {"question": 같다, "answer": same, "group": adjective}
+  - {"question": 다르다, "answer": different, "group": adjective}
+  - {"question": 편하다, "answer": comfortable, "group": adjective}
+  - {"question": 불편하다, "answer": uncomfortable, "group": adjective}
+  - {"question": 재미있다, "answer": interesting/fun, "group": adjective}
+  - {"question": 재미없다, "answer": boring, "group": adjective}
+  - {"question": 아주, "answer": very, "group": adverb}
+  - {"question": 매우, "answer": very, "group": adverb}
+  - {"question": 정말, "answer": really, "group": adverb}
+  - {"question": 너무, "answer": too/very, "group": adverb}
+  - {"question": 조금, "answer": a little, "group": adverb}
+  - {"question": 많이, "answer": a lot, "group": adverb}
+  - {"question": 빨리, "answer": quickly, "group": adverb}
+  - {"question": 천천히, "answer": slowly, "group": adverb}
+  - {"question": 항상, "answer": always, "group": adverb}
+  - {"question": 자주, "answer": often, "group": adverb}
+  - {"question": 가끔, "answer": sometimes, "group": adverb}
+  - {"question": 전혀, "answer": not at all, "group": adverb}
+  - {"question": 거의, "answer": almost, "group": adverb}
+  - {"question": 이미, "answer": already, "group": adverb}
+  - {"question": 벌써, "answer": already, "group": adverb}
+  - {"question": 곧, "answer": soon, "group": adverb}
+  - {"question": 이제, "answer": now, "group": adverb}
+  - {"question": 지금, "answer": now, "group": adverb}
+  - {"question": 아직, "answer": still, "group": adverb}
+  - {"question": 또, "answer": again, "group": adverb}
+  - {"question": 다시, "answer": again, "group": adverb}
+  - {"question": 먼저, "answer": first, "group": adverb}
+  - {"question": 나중에, "answer": later, "group": adverb}
+  - {"question": 갑자기, "answer": suddenly, "group": adverb}
+  - {"question": 특히, "answer": especially, "group": adverb}
+  - {"question": 보통, "answer": usually, "group": adverb}
+  - {"question": 대부분, "answer": mostly, "group": adverb}
+  - {"question": 아마, "answer": maybe, "group": adverb}
+  - {"question": 틀림없이, "answer": surely, "group": adverb}
+  - {"question": 이렇게, "answer": like this, "group": adverb}
+  - {"question": 그렇게, "answer": like that, "group": adverb}
+  - {"question": 저렇게, "answer": like that (over there), "group": adverb}
+  - {"question": 같이, "answer": together, "group": adverb}
+  - {"question": 혼자, "answer": alone, "group": adverb}
+  - {"question": 밖에, "answer": outside, "group": adverb}
+  - {"question": 안에, "answer": inside, "group": adverb}
+  - {"question": 위에, "answer": above, "group": adverb}
+  - {"question": 아래, "answer": below, "group": adverb}
+  - {"question": 앞에, "answer": in front, "group": adverb}
+  - {"question": 뒤에, "answer": behind, "group": adverb}
+  - {"question": 옆에, "answer": beside, "group": adverb}
+  - {"question": 근처, "answer": nearby, "group": adverb}
+  - {"question": 멀리, "answer": far away, "group": adverb}
+  - {"question": 여기, "answer": here, "group": adverb}
+  - {"question": 거기, "answer": there, "group": adverb}
+  - {"question": 저기, "answer": over there, "group": adverb}
