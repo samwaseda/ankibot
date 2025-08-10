@@ -1,0 +1,340 @@
+list:
+  - {"question": 人（ひと）, "answer": person, "group": noun}
+  - {"question": 男（おとこ）, "answer": man, "group": noun}
+  - {"question": 女（おんな）, "answer": woman, "group": noun}
+  - {"question": 子供（こども）, "answer": child, "group": noun}
+  - {"question": 友達（ともだち）, "answer": friend, "group": noun}
+  - {"question": 家族（かぞく）, "answer": family, "group": noun}
+  - {"question": 母（はは）, "answer": mother, "group": noun}
+  - {"question": お母さん（おかあさん）, "answer": mother (polite), "group": noun}
+  - {"question": 父（ちち）, "answer": father, "group": noun}
+  - {"question": お父さん（おとうさん）, "answer": father (polite), "group": noun}
+  - {"question": 兄（あに）, "answer": older brother, "group": noun}
+  - {"question": お兄さん（おにいさん）, "answer": older brother (polite), "group": noun}
+  - {"question": 姉（あね）, "answer": older sister, "group": noun}
+  - {"question": お姉さん（おねえさん）, "answer": older sister (polite), "group": noun}
+  - {"question": 弟（おとうと）, "answer": younger brother, "group": noun}
+  - {"question": 妹（いもうと）, "answer": younger sister, "group": noun}
+  - {"question": 息子（むすこ）, "answer": son, "group": noun}
+  - {"question": 娘（むすめ）, "answer": daughter, "group": noun}
+  - {"question": 学生（がくせい）, "answer": student, "group": noun}
+  - {"question": 先生（せんせい）, "answer": teacher, "group": noun}
+  - {"question": 会社（かいしゃ）, "answer": company, "group": noun}
+  - {"question": 社員（しゃいん）, "answer": employee, "group": noun}
+  - {"question": 社長（しゃちょう）, "answer": president/boss, "group": noun}
+  - {"question": 家（いえ／うち）, "answer": house/home, "group": noun}
+  - {"question": 部屋（へや）, "answer": room, "group": noun}
+  - {"question": 台所（だいどころ）, "answer": kitchen, "group": noun}
+  - {"question": トイレ, "answer": toilet, "group": noun}
+  - {"question": 学校（がっこう）, "answer": school, "group": noun}
+  - {"question": 病院（びょういん）, "answer": hospital, "group": noun}
+  - {"question": レストラン, "answer": restaurant, "group": noun}
+  - {"question": 店（みせ）, "answer": store/shop, "group": noun}
+  - {"question": 市場（いちば）, "answer": market, "group": noun}
+  - {"question": 銀行（ぎんこう）, "answer": bank, "group": noun}
+  - {"question": 公園（こうえん）, "answer": park, "group": noun}
+  - {"question": 道（みち）, "answer": road, "group": noun}
+  - {"question": 車（くるま）, "answer": car, "group": noun}
+  - {"question": バス, "answer": bus, "group": noun}
+  - {"question": 電車（でんしゃ）, "answer": train, "group": noun}
+  - {"question": 飛行機（ひこうき）, "answer": airplane, "group": noun}
+  - {"question": 船（ふね）, "answer": boat/ship, "group": noun}
+  - {"question": 携帯電話（けいたいでんわ）, "answer": mobile phone, "group": noun}
+  - {"question": パソコン, "answer": computer, "group": noun}
+  - {"question": 本（ほん）, "answer": book, "group": noun}
+  - {"question": 新聞（しんぶん）, "answer": newspaper, "group": noun}
+  - {"question": 手紙（てがみ）, "answer": letter, "group": noun}
+  - {"question": 写真（しゃしん）, "answer": photo, "group": noun}
+  - {"question": ドア, "answer": door, "group": noun}
+  - {"question": 窓（まど）, "answer": window, "group": noun}
+  - {"question": 椅子（いす）, "answer": chair, "group": noun}
+  - {"question": 机（つくえ）, "answer": desk, "group": noun}
+  - {"question": ベッド, "answer": bed, "group": noun}
+  - {"question": 服（ふく）, "answer": clothes, "group": noun}
+  - {"question": 靴（くつ）, "answer": shoes, "group": noun}
+  - {"question": かばん, "answer": bag, "group": noun}
+  - {"question": 帽子（ぼうし）, "answer": hat, "group": noun}
+  - {"question": 食べ物（たべもの）, "answer": food, "group": noun}
+  - {"question": 水（みず）, "answer": water, "group": noun}
+  - {"question": ご飯（ごはん）, "answer": rice/meal, "group": noun}
+  - {"question": パン, "answer": bread, "group": noun}
+  - {"question": 果物（くだもの）, "answer": fruit, "group": noun}
+  - {"question": 野菜（やさい）, "answer": vegetable, "group": noun}
+  - {"question": 肉（にく）, "answer": meat, "group": noun}
+  - {"question": 魚（さかな）, "answer": fish, "group": noun}
+  - {"question": 牛乳（ぎゅうにゅう）, "answer": milk, "group": noun}
+  - {"question": コーヒー, "answer": coffee, "group": noun}
+  - {"question": お茶（おちゃ）, "answer": tea, "group": noun}
+  - {"question": ビール, "answer": beer, "group": noun}
+  - {"question": お酒（おさけ）, "answer": alcohol/sake, "group": noun}
+  - {"question": 朝ご飯（あさごはん）, "answer": breakfast, "group": noun}
+  - {"question": 昼ご飯（ひるごはん）, "answer": lunch, "group": noun}
+  - {"question": 晩ご飯（ばんごはん）, "answer": dinner, "group": noun}
+  - {"question": 日（ひ）, "answer": day, "group": noun}
+  - {"question": 今日（きょう）, "answer": today, "group": noun}
+  - {"question": 昨日（きのう）, "answer": yesterday, "group": noun}
+  - {"question": 明日（あした）, "answer": tomorrow, "group": noun}
+  - {"question": 朝（あさ）, "answer": morning, "group": noun}
+  - {"question": 午後（ごご）, "answer": afternoon, "group": noun}
+  - {"question": 夕方（ゆうがた）, "answer": evening, "group": noun}
+  - {"question": 夜（よる）, "answer": night, "group": noun}
+  - {"question": 時間（じかん）, "answer": time, "group": noun}
+  - {"question": 時（じ）, "answer": hour, "group": noun}
+  - {"question": 分（ふん／ぷん）, "answer": minute, "group": noun}
+  - {"question": 秒（びょう）, "answer": second, "group": noun}
+  - {"question": 天気（てんき）, "answer": weather, "group": noun}
+  - {"question": 雨（あめ）, "answer": rain, "group": noun}
+  - {"question": 雪（ゆき）, "answer": snow, "group": noun}
+  - {"question": 太陽（たいよう）, "answer": sun, "group": noun}
+  - {"question": 月（つき）, "answer": moon, "group": noun}
+  - {"question": 星（ほし）, "answer": star, "group": noun}
+  - {"question": 花（はな）, "answer": flower, "group": noun}
+  - {"question": 木（き）, "answer": tree, "group": noun}
+  - {"question": 山（やま）, "answer": mountain, "group": noun}
+  - {"question": 海（うみ）, "answer": sea, "group": noun}
+  - {"question": 川（かわ）, "answer": river, "group": noun}
+  - {"question": 島（しま）, "answer": island, "group": noun}
+  - {"question": 色（いろ）, "answer": color, "group": noun}
+  - {"question": 赤（あか）, "answer": red, "group": noun}
+  - {"question": 青（あお）, "answer": blue, "group": noun}
+  - {"question": 黄色（きいろ）, "answer": yellow, "group": noun}
+  - {"question": 緑（みどり）, "answer": green, "group": noun}
+  - {"question": 白（しろ）, "answer": white, "group": noun}
+  - {"question": 黒（くろ）, "answer": black, "group": noun}
+  - {"question": 灰色（はいいろ）, "answer": gray, "group": noun}
+  - {"question": お金（おかね）, "answer": money, "group": noun}
+  - {"question": 値段（ねだん）, "answer": price, "group": noun}
+  - {"question": 問題（もんだい）, "answer": problem, "group": noun}
+  - {"question": 仕事（しごと）, "answer": work, "group": noun}
+  - {"question": 趣味（しゅみ）, "answer": hobby, "group": noun}
+  - {"question": 音楽（おんがく）, "answer": music, "group": noun}
+  - {"question": 映画（えいが）, "answer": movie, "group": noun}
+  - {"question": ドラマ, "answer": drama, "group": noun}
+  - {"question": ゲーム, "answer": game, "group": noun}
+  - {"question": スポーツ, "answer": sports, "group": noun}
+  - {"question": サッカー, "answer": soccer, "group": noun}
+  - {"question": 野球（やきゅう）, "answer": baseball, "group": noun}
+  - {"question": バスケットボール, "answer": basketball, "group": noun}
+  - {"question": テニス, "answer": tennis, "group": noun}
+  - {"question": 旅行（りょこう）, "answer": travel, "group": noun}
+  - {"question": 写真（しゃしん）, "answer": photo, "group": noun}
+  - {"question": ダンス, "answer": dance, "group": noun}
+  - {"question": 歌（うた）, "answer": song, "group": noun}
+  - {"question": ボール, "answer": ball, "group": noun}
+  - {"question": コンビニ, "answer": convenience store, "group": noun}
+  - {"question": 薬局（やっきょく）, "answer": pharmacy, "group": noun}
+  - {"question": 薬（くすり）, "answer": medicine, "group": noun}
+  - {"question": 教会（きょうかい）, "answer": church, "group": noun}
+  - {"question": 寺（てら）, "answer": temple, "group": noun}
+  - {"question": 文化（ぶんか）, "answer": culture, "group": noun}
+  - {"question": 歴史（れきし）, "answer": history, "group": noun}
+  - {"question": 言葉（ことば）, "answer": word/language, "group": noun}
+  - {"question": 日本（にほん）, "answer": Japan, "group": noun}
+  - {"question": 日本語（にほんご）, "answer": Japanese language, "group": noun}
+  - {"question": 英語（えいご）, "answer": English, "group": noun}
+  - {"question": 中国語（ちゅうごくご）, "answer": Chinese language, "group": noun}
+  - {"question": 外国（がいこく）, "answer": foreign country, "group": noun}
+  - {"question": 外国人（がいこくじん）, "answer": foreigner, "group": noun}
+  - {"question": 都市（とし）, "answer": city, "group": noun}
+  - {"question": 村（むら）, "answer": village, "group": noun}
+  - {"question": 田舎（いなか）, "answer": countryside, "group": noun}
+  - {"question": 住所（じゅうしょ）, "answer": address, "group": noun}
+  - {"question": 電話（でんわ）, "answer": phone, "group": noun}
+  - {"question": 番号（ばんごう）, "answer": number, "group": noun}
+  - {"question": 名前（なまえ）, "answer": name, "group": noun}
+  - {"question": 姓（せい）, "answer": surname, "group": noun}
+  - {"question": 年齢（ねんれい）, "answer": age, "group": noun}
+  - {"question": 誕生日（たんじょうび）, "answer": birthday, "group": noun}
+  - {"question": 就職（しゅうしょく）, "answer": employment, "group": noun}
+  - {"question": 面接（めんせつ）, "answer": interview, "group": noun}
+  - {"question": 会議（かいぎ）, "answer": meeting, "group": noun}
+  - {"question": 計画（けいかく）, "answer": plan, "group": noun}
+  - {"question": 約束（やくそく）, "answer": appointment, "group": noun}
+  - {"question": 理由（りゆう）, "answer": reason, "group": noun}
+  - {"question": 方法（ほうほう）, "answer": method, "group": noun}
+  - {"question": 始まり（はじまり）, "answer": start, "group": noun}
+  - {"question": 終わり（おわり）, "answer": end, "group": noun}
+  - {"question": する, "answer": to do, "group": verb}
+  - {"question": ある, "answer": to exist (inanimate), "group": verb}
+  - {"question": いる, "answer": to exist (animate), "group": verb}
+  - {"question": なる, "answer": to become, "group": verb}
+  - {"question": 行く（いく）, "answer": to go, "group": verb}
+  - {"question": 来る（くる）, "answer": to come, "group": verb}
+  - {"question": 見る（みる）, "answer": to see/watch, "group": verb}
+  - {"question": 食べる（たべる）, "answer": to eat, "group": verb}
+  - {"question": 飲む（のむ）, "answer": to drink, "group": verb}
+  - {"question": 読む（よむ）, "answer": to read, "group": verb}
+  - {"question": 書く（かく）, "answer": to write, "group": verb}
+  - {"question": 作る（つくる）, "answer": to make, "group": verb}
+  - {"question": 買う（かう）, "answer": to buy, "group": verb}
+  - {"question": 売る（うる）, "answer": to sell, "group": verb}
+  - {"question": あげる, "answer": to give, "group": verb}
+  - {"question": もらう, "answer": to receive, "group": verb}
+  - {"question": 開ける（あける）, "answer": to open, "group": verb}
+  - {"question": 閉める（しめる）, "answer": to close, "group": verb}
+  - {"question": 乗る（のる）, "answer": to ride, "group": verb}
+  - {"question": 歩く（あるく）, "answer": to walk, "group": verb}
+  - {"question": 走る（はしる）, "answer": to run, "group": verb}
+  - {"question": 座る（すわる）, "answer": to sit, "group": verb}
+  - {"question": 立つ（たつ）, "answer": to stand, "group": verb}
+  - {"question": 寝る（ねる）, "answer": to sleep, "group": verb}
+  - {"question": 起きる（おきる）, "answer": to wake up/get up, "group": verb}
+  - {"question": 勉強する（べんきょうする）, "answer": to study, "group": verb}
+  - {"question": 働く（はたらく）, "answer": to work, "group": verb}
+  - {"question": 運動する（うんどうする）, "answer": to exercise, "group": verb}
+  - {"question": 休む（やすむ）, "answer": to rest, "group": verb}
+  - {"question": 遊ぶ（あそぶ）, "answer": to play, "group": verb}
+  - {"question": 話す（はなす）, "answer": to speak/talk, "group": verb}
+  - {"question": 聞く（きく）, "answer": to listen/ask, "group": verb}
+  - {"question": 考える（かんがえる）, "answer": to think, "group": verb}
+  - {"question": 知る（しる）, "answer": to know, "group": verb}
+  - {"question": 知らない（しらない）, "answer": to not know, "group": verb}
+  - {"question": 覚える（おぼえる）, "answer": to remember, "group": verb}
+  - {"question": 忘れる（わすれる）, "answer": to forget, "group": verb}
+  - {"question": 愛する（あいする）, "answer": to love, "group": verb}
+  - {"question": 好き（すき）, "answer": to like, "group": verb}
+  - {"question": 嫌い（きらい）, "answer": to dislike, "group": verb}
+  - {"question": 必要（ひつよう）, "answer": to need, "group": verb}
+  - {"question": 欲しい（ほしい）, "answer": to want, "group": verb}
+  - {"question": 手伝う（てつだう）, "answer": to help, "group": verb}
+  - {"question": 待つ（まつ）, "answer": to wait, "group": verb}
+  - {"question": 使う（つかう）, "answer": to use, "group": verb}
+  - {"question": 電話する（でんわする）, "answer": to call, "group": verb}
+  - {"question": 旅行する（りょこうする）, "answer": to travel, "group": verb}
+  - {"question": 料理する（りょうりする）, "answer": to cook, "group": verb}
+  - {"question": 掃除する（そうじする）, "answer": to clean, "group": verb}
+  - {"question": 準備する（じゅんびする）, "answer": to prepare, "group": verb}
+  - {"question": 始める（はじめる）, "answer": to start, "group": verb}
+  - {"question": 終わる（おわる）, "answer": to end, "group": verb}
+  - {"question": 頑張る（がんばる）, "answer": to do one’s best, "group": verb}
+  - {"question": 尋ねる（たずねる）, "answer": to ask, "group": verb}
+  - {"question": 答える（こたえる）, "answer": to answer, "group": verb}
+  - {"question": 笑う（わらう）, "answer": to laugh/smile, "group": verb}
+  - {"question": 泣く（なく）, "answer": to cry, "group": verb}
+  - {"question": 送る（おくる）, "answer": to send, "group": verb}
+  - {"question": 取る（とる）, "answer": to take, "group": verb}
+  - {"question": 置く（おく）, "answer": to put/place, "group": verb}
+  - {"question": 入れる（いれる）, "answer": to insert/put in, "group": verb}
+  - {"question": 出す（だす）, "answer": to take out/send out, "group": verb}
+  - {"question": 着る（きる）, "answer": to wear (clothes), "group": verb}
+  - {"question": 脱ぐ（ぬぐ）, "answer": to take off (clothes), "group": verb}
+  - {"question": 履く（はく）, "answer": to wear (shoes/pants), "group": verb}
+  - {"question": かぶる, "answer": to wear (hat), "group": verb}
+  - {"question": 会う（あう）, "answer": to meet, "group": verb}
+  - {"question": 別れる（わかれる）, "answer": to part/break up, "group": verb}
+  - {"question": 入る（はいる）, "answer": to enter, "group": verb}
+  - {"question": 出る（でる）, "answer": to leave/come out, "group": verb}
+  - {"question": 帰る（かえる）, "answer": to return home, "group": verb}
+  - {"question": 現れる（あらわれる）, "answer": to appear, "group": verb}
+  - {"question": 消える（きえる）, "answer": to disappear, "group": verb}
+  - {"question": 試す（ためす）, "answer": to try/test, "group": verb}
+  - {"question": 成功する（せいこうする）, "answer": to succeed, "group": verb}
+  - {"question": 失敗する（しっぱいする）, "answer": to fail, "group": verb}
+  - {"question": 変わる（かわる）, "answer": to change, "group": verb}
+  - {"question": 続ける（つづける）, "answer": to continue, "group": verb}
+  - {"question": 止める（やめる）, "answer": to stop/quit, "group": verb}
+  - {"question": 心配する（しんぱいする）, "answer": to worry, "group": verb}
+  - {"question": 説明する（せつめいする）, "answer": to explain, "group": verb}
+  - {"question": 招待する（しょうたいする）, "answer": to invite, "group": verb}
+  - {"question": 運転する（うんてんする）, "answer": to drive, "group": verb}
+  - {"question": 買い物する（かいものする）, "answer": to shop, "group": verb}
+  - {"question": 結婚する（けっこんする）, "answer": to marry, "group": verb}
+  - {"question": 離婚する（りこんする）, "answer": to divorce, "group": verb}
+  - {"question": 生まれる（うまれる）, "answer": to be born, "group": verb}
+  - {"question": 死ぬ（しぬ）, "answer": to die, "group": verb}
+  - {"question": 住む（すむ）, "answer": to live/reside, "group": verb}
+  - {"question": 見える（みえる）, "answer": to be visible, "group": verb}
+  - {"question": 聞こえる（きこえる）, "answer": to be heard, "group": verb}
+  - {"question": いい, "answer": good, "group": adjective}
+  - {"question": 悪い（わるい）, "answer": bad, "group": adjective}
+  - {"question": 大きい（おおきい）, "answer": big, "group": adjective}
+  - {"question": 小さい（ちいさい）, "answer": small, "group": adjective}
+  - {"question": 多い（おおい）, "answer": many/much, "group": adjective}
+  - {"question": 少ない（すくない）, "answer": few/little, "group": adjective}
+  - {"question": 長い（ながい）, "answer": long, "group": adjective}
+  - {"question": 短い（みじかい）, "answer": short, "group": adjective}
+  - {"question": 速い（はやい）, "answer": fast, "group": adjective}
+  - {"question": 遅い（おそい）, "answer": slow/late, "group": adjective}
+  - {"question": 高い（たかい）, "answer": tall/high/expensive, "group": adjective}
+  - {"question": 安い（やすい）, "answer": cheap, "group": adjective}
+  - {"question": 熱い（あつい）, "answer": hot (object), "group": adjective}
+  - {"question": 冷たい（つめたい）, "answer": cold (object), "group": adjective}
+  - {"question": 暑い（あつい）, "answer": hot (weather), "group": adjective}
+  - {"question": 寒い（さむい）, "answer": cold (weather), "group": adjective}
+  - {"question": 痛い（いたい）, "answer": painful, "group": adjective}
+  - {"question": 元気（げんき）, "answer": healthy/energetic, "group": adjective}
+  - {"question": 簡単（かんたん）, "answer": easy/simple, "group": adjective}
+  - {"question": 難しい（むずかしい）, "answer": difficult, "group": adjective}
+  - {"question": きれい, "answer": pretty/clean, "group": adjective}
+  - {"question": 美しい（うつくしい）, "answer": beautiful, "group": adjective}
+  - {"question": ハンサム, "answer": handsome, "group": adjective}
+  - {"question": かわいい, "answer": cute, "group": adjective}
+  - {"question": 重い（おもい）, "answer": heavy, "group": adjective}
+  - {"question": 軽い（かるい）, "answer": light (weight), "group": adjective}
+  - {"question": お腹がすいた, "answer": hungry, "group": adjective}
+  - {"question": お腹いっぱい, "answer": full (after eating), "group": adjective}
+  - {"question": 眠い（ねむい）, "answer": sleepy, "group": adjective}
+  - {"question": 楽しい（たのしい）, "answer": fun, "group": adjective}
+  - {"question": 悲しい（かなしい）, "answer": sad, "group": adjective}
+  - {"question": 幸せ（しあわせ）, "answer": happy, "group": adjective}
+  - {"question": 不幸（ふこう）, "answer": unhappy, "group": adjective}
+  - {"question": 忙しい（いそがしい）, "answer": busy, "group": adjective}
+  - {"question": 暇（ひま）, "answer": free (not busy), "group": adjective}
+  - {"question": 危ない（あぶない）, "answer": dangerous, "group": adjective}
+  - {"question": 安全（あんぜん）, "answer": safe, "group": adjective}
+  - {"question": 重要（じゅうよう）, "answer": important, "group": adjective}
+  - {"question": 必要（ひつよう）, "answer": necessary, "group": adjective}
+  - {"question": 有名（ゆうめい）, "answer": famous, "group": adjective}
+  - {"question": 賢い（かしこい）, "answer": smart, "group": adjective}
+  - {"question": 若い（わかい）, "answer": young, "group": adjective}
+  - {"question": 年を取った（としをとった）, "answer": old (person), "group": adjective}
+  - {"question": 新しい（あたらしい）, "answer": new, "group": adjective}
+  - {"question": 古い（ふるい）, "answer": old (object), "group": adjective}
+  - {"question": 同じ（おなじ）, "answer": same, "group": adjective}
+  - {"question": 違う（ちがう）, "answer": different, "group": adjective}
+  - {"question": 楽（らく）, "answer": comfortable, "group": adjective}
+  - {"question": 不便（ふべん）, "answer": inconvenient, "group": adjective}
+  - {"question": 面白い（おもしろい）, "answer": interesting/fun, "group": adjective}
+  - {"question": つまらない, "answer": boring, "group": adjective}
+  - {"question": とても, "answer": very, "group": adverb}
+  - {"question": すごく, "answer": very, "group": adverb}
+  - {"question": 本当に（ほんとうに）, "answer": really, "group": adverb}
+  - {"question": あまり, "answer": not much (negative), "group": adverb}
+  - {"question": 少し（すこし）, "answer": a little, "group": adverb}
+  - {"question": たくさん, "answer": a lot, "group": adverb}
+  - {"question": 早く（はやく）, "answer": quickly/early, "group": adverb}
+  - {"question": ゆっくり, "answer": slowly, "group": adverb}
+  - {"question": いつも, "answer": always, "group": adverb}
+  - {"question": よく, "answer": often/well, "group": adverb}
+  - {"question": たまに, "answer": sometimes, "group": adverb}
+  - {"question": 全然（ぜんぜん）, "answer": not at all (negative), "group": adverb}
+  - {"question": ほとんど, "answer": almost, "group": adverb}
+  - {"question": もう, "answer": already, "group": adverb}
+  - {"question": まだ, "answer": still/yet, "group": adverb}
+  - {"question": すぐ, "answer": soon, "group": adverb}
+  - {"question": 今（いま）, "answer": now, "group": adverb}
+  - {"question": また, "answer": again, "group": adverb}
+  - {"question": まず, "answer": first, "group": adverb}
+  - {"question": 後で（あとで）, "answer": later, "group": adverb}
+  - {"question": 急に（きゅうに）, "answer": suddenly, "group": adverb}
+  - {"question": 特に（とくに）, "answer": especially, "group": adverb}
+  - {"question": 普通（ふつう）, "answer": usually, "group": adverb}
+  - {"question": たぶん, "answer": maybe, "group": adverb}
+  - {"question": きっと, "answer": surely, "group": adverb}
+  - {"question": こう, "answer": like this, "group": adverb}
+  - {"question": そう, "answer": like that, "group": adverb}
+  - {"question": ああ, "answer": like that (over there), "group": adverb}
+  - {"question": 一緒に（いっしょに）, "answer": together, "group": adverb}
+  - {"question": 一人で（ひとりで）, "answer": alone, "group": adverb}
+  - {"question": 外（そと）, "answer": outside, "group": adverb}
+  - {"question": 中（なか）, "answer": inside, "group": adverb}
+  - {"question": 上（うえ）, "answer": above, "group": adverb}
+  - {"question": 下（した）, "answer": below, "group": adverb}
+  - {"question": 前（まえ）, "answer": in front, "group": adverb}
+  - {"question": 後ろ（うしろ）, "answer": behind, "group": adverb}
+  - {"question": 横（よこ）, "answer": beside, "group": adverb}
+  - {"question": 近く（ちかく）, "answer": nearby, "group": adverb}
+  - {"question": 遠く（とおく）, "answer": far away, "group": adverb}
+  - {"question": ここ, "answer": here, "group": adverb}
+  - {"question": そこ, "answer": there, "group": adverb}
+  - {"question": あそこ, "answer": over there, "group": adverb}
