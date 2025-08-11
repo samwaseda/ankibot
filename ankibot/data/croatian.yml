@@ -1,0 +1,229 @@
+list:
+  - {"question": osoba, "answer": person, "group": noun}
+  - {"question": muškarac, "answer": man, "group": noun}
+  - {"question": žena, "answer": woman, "group": noun}
+  - {"question": dijete, "answer": child, "group": noun}
+  - {"question": prijatelj, "answer": friend, "group": noun}
+  - {"question": prijateljica, "answer": (female) friend, "group": noun}
+  - {"question": obitelj, "answer": family, "group": noun}
+  - {"question": otac, "answer": father, "group": noun}
+  - {"question": majka, "answer": mother, "group": noun}
+  - {"question": sin, "answer": son, "group": noun}
+  - {"question": kćer, "answer": daughter, "group": noun}
+  - {"question": brat, "answer": brother, "group": noun}
+  - {"question": sestra, "answer": sister, "group": noun}
+  - {"question": baka, "answer": grandmother, "group": noun}
+  - {"question": djed, "answer": grandfather, "group": noun}
+  - {"question": učitelj, "answer": teacher, "group": noun}
+  - {"question": učenik, "answer": student, "group": noun}
+  - {"question": škola, "answer": school, "group": noun}
+  - {"question": učionica, "answer": classroom, "group": noun}
+  - {"question": posao, "answer": job/work, "group": noun}
+  - {"question": ured, "answer": office, "group": noun}
+  - {"question": grad, "answer": city, "group": noun}
+  - {"question": selo, "answer": village, "group": noun}
+  - {"question": kuća, "answer": house, "group": noun}
+  - {"question": stan, "answer": apartment, "group": noun}
+  - {"question": soba, "answer": room, "group": noun}
+  - {"question": ulica, "answer": street, "group": noun}
+  - {"question": trg, "answer": square, "group": noun}
+  - {"question": most, "answer": bridge, "group": noun}
+  - {"question": rijeka, "answer": river, "group": noun}
+  - {"question": jezero, "answer": lake, "group": noun}
+  - {"question": more, "answer": sea, "group": noun}
+  - {"question": planina, "answer": mountain, "group": noun}
+  - {"question": šuma, "answer": forest, "group": noun}
+  - {"question": park, "answer": park, "group": noun}
+  - {"question": vrt, "answer": garden, "group": noun}
+  - {"question": drvo, "answer": tree, "group": noun}
+  - {"question": cvijet, "answer": flower, "group": noun}
+  - {"question": list, "answer": leaf, "group": noun}
+  - {"question": hrana, "answer": food, "group": noun}
+  - {"question": piće, "answer": drink, "group": noun}
+  - {"question": voda, "answer": water, "group": noun}
+  - {"question": kruh, "answer": bread, "group": noun}
+  - {"question": mlijeko, "answer": milk, "group": noun}
+  - {"question": sir, "answer": cheese, "group": noun}
+  - {"question": meso, "answer": meat, "group": noun}
+  - {"question": riba, "answer": fish, "group": noun}
+  - {"question": voće, "answer": fruit, "group": noun}
+  - {"question": povrće, "answer": vegetable, "group": noun}
+  - {"question": jabuka, "answer": apple, "group": noun}
+  - {"question": banana, "answer": banana, "group": noun}
+  - {"question": krumpir, "answer": potato, "group": noun}
+  - {"question": rajčica, "answer": tomato, "group": noun}
+  - {"question": riža, "answer": rice, "group": noun}
+  - {"question": jaje, "answer": egg, "group": noun}
+  - {"question": šećer, "answer": sugar, "group": noun}
+  - {"question": sol, "answer": salt, "group": noun}
+  - {"question": kava, "answer": coffee, "group": noun}
+  - {"question": čaj, "answer": tea, "group": noun}
+  - {"question": vino, "answer": wine, "group": noun}
+  - {"question": pivo, "answer": beer, "group": noun}
+  - {"question": novac, "answer": money, "group": noun}
+  - {"question": trgovina, "answer": shop, "group": noun}
+  - {"question": tržište, "answer": market, "group": noun}
+  - {"question": auto, "answer": car, "group": noun}
+  - {"question": vlak, "answer": train, "group": noun}
+  - {"question": autobus, "answer": bus, "group": noun}
+  - {"question": zrakoplov, "answer": airplane, "group": noun}
+  - {"question": brod, "answer": ship, "group": noun}
+  - {"question": bicikl, "answer": bicycle, "group": noun}
+  - {"question": cesta, "answer": road, "group": noun}
+  - {"question": stanica, "answer": station, "group": noun}
+  - {"question": karta, "answer": ticket/map, "group": noun}
+  - {"question": sat, "answer": clock/watch, "group": noun}
+  - {"question": dan, "answer": day, "group": noun}
+  - {"question": noć, "answer": night, "group": noun}
+  - {"question": jutro, "answer": morning, "group": noun}
+  - {"question": večer, "answer": evening, "group": noun}
+  - {"question": vrijeme, "answer": time/weather, "group": noun}
+  - {"question": tjedan, "answer": week, "group": noun}
+  - {"question": mjesec, "answer": month, "group": noun}
+  - {"question": godina, "answer": year, "group": noun}
+  - {"question": ljubav, "answer": love, "group": noun}
+  - {"question": radost, "answer": joy, "group": noun}
+  - {"question": tuga, "answer": sadness, "group": noun}
+  - {"question": strah, "answer": fear, "group": noun}
+  - {"question": glazba, "answer": music, "group": noun}
+  - {"question": film, "answer": movie, "group": noun}
+  - {"question": knjiga, "answer": book, "group": noun}
+  - {"question": novine, "answer": newspaper, "group": noun}
+  - {"question": pismo, "answer": letter, "group": noun}
+  - {"question": telefon, "answer": telephone, "group": noun}
+  - {"question": računalo, "answer": computer, "group": noun}
+  - {"question": slika, "answer": picture, "group": noun}
+  - {"question": boja, "answer": color, "group": noun}
+  - {"question": crvena, "answer": red, "group": noun}
+  - {"question": plava, "answer": blue, "group": noun}
+  - {"question": zelena, "answer": green, "group": noun}
+  - {"question": žuta, "answer": yellow, "group": noun}
+  - {"question": crna, "answer": black, "group": noun}
+  - {"question": bijela, "answer": white, "group": noun}
+  - {"question": siva, "answer": grey, "group": noun}
+  - {"question": sunce, "answer": sun, "group": noun}
+  - {"question": mjesec, "answer": moon, "group": noun}
+  - {"question": zvijezda, "answer": star, "group": noun}
+  - {"question": biti, "answer": to be, "group": verb}
+  - {"question": imati, "answer": to have, "group": verb}
+  - {"question": raditi, "answer": to work/do, "group": verb}
+  - {"question": govoriti, "answer": to speak, "group": verb}
+  - {"question": reći, "answer": to say, "group": verb}
+  - {"question": vidjeti, "answer": to see, "group": verb}
+  - {"question": gledati, "answer": to watch/look, "group": verb}
+  - {"question": slušati, "answer": to listen, "group": verb}
+  - {"question": čuti, "answer": to hear, "group": verb}
+  - {"question": jesti, "answer": to eat, "group": verb}
+  - {"question": piti, "answer": to drink, "group": verb}
+  - {"question": ići, "answer": to go, "group": verb}
+  - {"question": dolaziti, "answer": to come, "group": verb}
+  - {"question": misliti, "answer": to think, "group": verb}
+  - {"question": znati, "answer": to know (facts), "group": verb}
+  - {"question": poznavati, "answer": to know (people), "group": verb}
+  - {"question": učiti, "answer": to learn, "group": verb}
+  - {"question": čitati, "answer": to read, "group": verb}
+  - {"question": pisati, "answer": to write, "group": verb}
+  - {"question": voziti, "answer": to drive, "group": verb}
+  - {"question": hodati, "answer": to walk, "group": verb}
+  - {"question": trčati, "answer": to run, "group": verb}
+  - {"question": plivati, "answer": to swim, "group": verb}
+  - {"question": igrati, "answer": to play, "group": verb}
+  - {"question": spavati, "answer": to sleep, "group": verb}
+  - {"question": buditi, "answer": to wake (someone), "group": verb}
+  - {"question": ustati, "answer": to get up, "group": verb}
+  - {"question": sjediti, "answer": to sit, "group": verb}
+  - {"question": stajati, "answer": to stand, "group": verb}
+  - {"question": ležati, "answer": to lie down, "group": verb}
+  - {"question": otvoriti, "answer": to open, "group": verb}
+  - {"question": zatvoriti, "answer": to close, "group": verb}
+  - {"question": dati, "answer": to give, "group": verb}
+  - {"question": uzeti, "answer": to take, "group": verb}
+  - {"question": kupiti, "answer": to buy, "group": verb}
+  - {"question": prodati, "answer": to sell, "group": verb}
+  - {"question": nositi, "answer": to carry/wear, "group": verb}
+  - {"question": držati, "answer": to hold, "group": verb}
+  - {"question": voljeti, "answer": to love, "group": verb}
+  - {"question": sviđati se, "answer": to like, "group": verb}
+  - {"question": mrziti, "answer": to hate, "group": verb}
+  - {"question": trebati, "answer": to need, "group": verb}
+  - {"question": moći, "answer": can/able to, "group": verb}
+  - {"question": željeti, "answer": to want, "group": verb}
+  - {"question": početi, "answer": to start, "group": verb}
+  - {"question": završiti, "answer": to finish, "group": verb}
+  - {"question": razumjeti, "answer": to understand, "group": verb}
+  - {"question": pitati, "answer": to ask, "group": verb}
+  - {"question": odgovoriti, "answer": to answer, "group": verb}
+  - {"question": čekati, "answer": to wait, "group": verb}
+  - {"question": naći, "answer": to find, "group": verb}
+  - {"question": pronaći, "answer": to find/discover, "group": verb}
+  - {"question": zvati, "answer": to call, "group": verb}
+  - {"question": igrati se, "answer": to play (game), "group": verb}
+  - {"question": plesati, "answer": to dance, "group": verb}
+  - {"question": pjevati, "answer": to sing, "group": verb}
+  - {"question": bojati se, "answer": to fear/be afraid, "group": verb}
+  - {"question": smijati se, "answer": to laugh, "group": verb}
+  - {"question": plakati, "answer": to cry, "group": verb}
+  - {"question": dobar, "answer": good, "group": adjective}
+  - {"question": loš, "answer": bad, "group": adjective}
+  - {"question": velik, "answer": big, "group": adjective}
+  - {"question": mali, "answer": small, "group": adjective}
+  - {"question": nov, "answer": new, "group": adjective}
+  - {"question": stari, "answer": old, "group": adjective}
+  - {"question": lijep, "answer": beautiful, "group": adjective}
+  - {"question": ružan, "answer": ugly, "group": adjective}
+  - {"question": topao, "answer": warm, "group": adjective}
+  - {"question": hladan, "answer": cold, "group": adjective}
+  - {"question": vruć, "answer": hot, "group": adjective}
+  - {"question": brz, "answer": fast, "group": adjective}
+  - {"question": spor, "answer": slow, "group": adjective}
+  - {"question": jeftin, "answer": cheap, "group": adjective}
+  - {"question": skup, "answer": expensive, "group": adjective}
+  - {"question": blizak, "answer": close (near), "group": adjective}
+  - {"question": dalek, "answer": far, "group": adjective}
+  - {"question": sretan, "answer": happy, "group": adjective}
+  - {"question": tužan, "answer": sad, "group": adjective}
+  - {"question": mlad, "answer": young, "group": adjective}
+  - {"question": star, "answer": old (person), "group": adjective}
+  - {"question": pametan, "answer": smart, "group": adjective}
+  - {"question": glup, "answer": stupid, "group": adjective}
+  - {"question": jak, "answer": strong, "group": adjective}
+  - {"question": slab, "answer": weak, "group": adjective}
+  - {"question": pun, "answer": full, "group": adjective}
+  - {"question": prazan, "answer": empty, "group": adjective}
+  - {"question": čist, "answer": clean, "group": adjective}
+  - {"question": prljav, "answer": dirty, "group": adjective}
+  - {"question": svijetao, "answer": bright, "group": adjective}
+  - {"question": tamni, "answer": dark, "group": adjective}
+  - {"question": slatki, "answer": sweet, "group": adjective}
+  - {"question": slan, "answer": salty, "group": adjective}
+  - {"question": kiseli, "answer": sour, "group": adjective}
+  - {"question": gorak, "answer": bitter, "group": adjective}
+  - {"question": zdrav, "answer": healthy, "group": adjective}
+  - {"question": bolestan, "answer": sick, "group": adjective}
+  - {"question": ovdje, "answer": here, "group": adverb}
+  - {"question": tamo, "answer": there, "group": adverb}
+  - {"question": ondje, "answer": over there, "group": adverb}
+  - {"question": sada, "answer": now, "group": adverb}
+  - {"question": onda, "answer": then, "group": adverb}
+  - {"question": danas, "answer": today, "group": adverb}
+  - {"question": sutra, "answer": tomorrow, "group": adverb}
+  - {"question": jučer, "answer": yesterday, "group": adverb}
+  - {"question": brzo, "answer": quickly, "group": adverb}
+  - {"question": polako, "answer": slowly, "group": adverb}
+  - {"question": dobro, "answer": well, "group": adverb}
+  - {"question": loše, "answer": badly, "group": adverb}
+  - {"question": vrlo, "answer": very, "group": adverb}
+  - {"question": mnogo, "answer": much/a lot, "group": adverb}
+  - {"question": malo, "answer": a little, "group": adverb}
+  - {"question": uvijek, "answer": always, "group": adverb}
+  - {"question": nikada, "answer": never, "group": adverb}
+  - {"question": često, "answer": often, "group": adverb}
+  - {"question": rijetko, "answer": rarely, "group": adverb}
+  - {"question": možda, "answer": maybe, "group": adverb}
+  - {"question": ponovo, "answer": again, "group": adverb}
+  - {"question": zajedno, "answer": together, "group": adverb}
+  - {"question": odvojeno, "answer": separately, "group": adverb}
+  - {"question": odmah, "answer": immediately, "group": adverb}
+  - {"question": uskoro, "answer": soon, "group": adverb}
+  - {"question": već, "answer": already, "group": adverb}
+  - {"question": još, "answer": still/yet, "group": adverb}
