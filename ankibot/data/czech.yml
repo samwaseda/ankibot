@@ -1,0 +1,331 @@
+list:
+  - {"question": člověk, "answer": person, "group": noun}
+  - {"question": muž, "answer": man, "group": noun}
+  - {"question": žena, "answer": woman, "group": noun}
+  - {"question": dítě, "answer": child, "group": noun}
+  - {"question": kamarád, "answer": friend (male), "group": noun}
+  - {"question": kamarádka, "answer": friend (female), "group": noun}
+  - {"question": rodina, "answer": family, "group": noun}
+  - {"question": matka, "answer": mother, "group": noun}
+  - {"question": maminka, "answer": mom, "group": noun}
+  - {"question": otec, "answer": father, "group": noun}
+  - {"question": tatínek, "answer": dad, "group": noun}
+  - {"question": bratr, "answer": brother, "group": noun}
+  - {"question": sestra, "answer": sister, "group": noun}
+  - {"question": syn, "answer": son, "group": noun}
+  - {"question": dcera, "answer": daughter, "group": noun}
+  - {"question": student, "answer": student (male), "group": noun}
+  - {"question": studentka, "answer": student (female), "group": noun}
+  - {"question": učitel, "answer": teacher (male), "group": noun}
+  - {"question": učitelka, "answer": teacher (female), "group": noun}
+  - {"question": firma, "answer": company, "group": noun}
+  - {"question": zaměstnanec, "answer": employee (male), "group": noun}
+  - {"question": zaměstnankyně, "answer": employee (female), "group": noun}
+  - {"question": šéf, "answer": boss (male), "group": noun}
+  - {"question": šéfová, "answer": boss (female), "group": noun}
+  - {"question": dům, "answer": house, "group": noun}
+  - {"question": byt, "answer": apartment, "group": noun}
+  - {"question": pokoj, "answer": room, "group": noun}
+  - {"question": kuchyň, "answer": kitchen, "group": noun}
+  - {"question": koupelna, "answer": bathroom, "group": noun}
+  - {"question": škola, "answer": school, "group": noun}
+  - {"question": nemocnice, "answer": hospital, "group": noun}
+  - {"question": restaurace, "answer": restaurant, "group": noun}
+  - {"question": obchod, "answer": shop, "group": noun}
+  - {"question": trh, "answer": market, "group": noun}
+  - {"question": banka, "answer": bank, "group": noun}
+  - {"question": park, "answer": park, "group": noun}
+  - {"question": ulice, "answer": street, "group": noun}
+  - {"question": auto, "answer": car, "group": noun}
+  - {"question": autobus, "answer": bus, "group": noun}
+  - {"question": vlak, "answer": train, "group": noun}
+  - {"question": letadlo, "answer": airplane, "group": noun}
+  - {"question": loď, "answer": boat, "group": noun}
+  - {"question": telefon, "answer": phone, "group": noun}
+  - {"question": počítač, "answer": computer, "group": noun}
+  - {"question": kniha, "answer": book, "group": noun}
+  - {"question": noviny, "answer": newspaper, "group": noun}
+  - {"question": dopisy, "answer": letters, "group": noun}
+  - {"question": fotka, "answer": photo, "group": noun}
+  - {"question": dveře, "answer": door, "group": noun}
+  - {"question": okno, "answer": window, "group": noun}
+  - {"question": židle, "answer": chair, "group": noun}
+  - {"question": stůl, "answer": table, "group": noun}
+  - {"question": postel, "answer": bed, "group": noun}
+  - {"question": oblečení, "answer": clothes, "group": noun}
+  - {"question": boty, "answer": shoes, "group": noun}
+  - {"question": taška, "answer": bag, "group": noun}
+  - {"question": čepice, "answer": hat, "group": noun}
+  - {"question": jídlo, "answer": food, "group": noun}
+  - {"question": voda, "answer": water, "group": noun}
+  - {"question": rýže, "answer": rice, "group": noun}
+  - {"question": chleba, "answer": bread, "group": noun}
+  - {"question": ovoce, "answer": fruit, "group": noun}
+  - {"question": zelenina, "answer": vegetable, "group": noun}
+  - {"question": maso, "answer": meat, "group": noun}
+  - {"question": ryba, "answer": fish, "group": noun}
+  - {"question": mléko, "answer": milk, "group": noun}
+  - {"question": káva, "answer": coffee, "group": noun}
+  - {"question": čaj, "answer": tea, "group": noun}
+  - {"question": pivo, "answer": beer, "group": noun}
+  - {"question": víno, "answer": wine, "group": noun}
+  - {"question": snídaně, "answer": breakfast, "group": noun}
+  - {"question": oběd, "answer": lunch, "group": noun}
+  - {"question": večeře, "answer": dinner, "group": noun}
+  - {"question": den, "answer": day, "group": noun}
+  - {"question": dnes, "answer": today, "group": noun}
+  - {"question": včera, "answer": yesterday, "group": noun}
+  - {"question": zítra, "answer": tomorrow, "group": noun}
+  - {"question": ráno, "answer": morning, "group": noun}
+  - {"question": odpoledne, "answer": afternoon, "group": noun}
+  - {"question": večer, "answer": evening, "group": noun}
+  - {"question": noc, "answer": night, "group": noun}
+  - {"question": čas, "answer": time, "group": noun}
+  - {"question": hodina, "answer": hour, "group": noun}
+  - {"question": minuta, "answer": minute, "group": noun}
+  - {"question": vteřina, "answer": second, "group": noun}
+  - {"question": počasí, "answer": weather, "group": noun}
+  - {"question": déšť, "answer": rain, "group": noun}
+  - {"question": sníh, "answer": snow, "group": noun}
+  - {"question": slunce, "answer": sun, "group": noun}
+  - {"question": měsíc, "answer": moon, "group": noun}
+  - {"question": hvězda, "answer": star, "group": noun}
+  - {"question": květina, "answer": flower, "group": noun}
+  - {"question": strom, "answer": tree, "group": noun}
+  - {"question": hora, "answer": mountain, "group": noun}
+  - {"question": moře, "answer": sea, "group": noun}
+  - {"question": řeka, "answer": river, "group": noun}
+  - {"question": ostrov, "answer": island, "group": noun}
+  - {"question": barva, "answer": color, "group": noun}
+  - {"question": červená, "answer": red, "group": noun}
+  - {"question": modrá, "answer": blue, "group": noun}
+  - {"question": žlutá, "answer": yellow, "group": noun}
+  - {"question": zelená, "answer": green, "group": noun}
+  - {"question": bílá, "answer": white, "group": noun}
+  - {"question": černá, "answer": black, "group": noun}
+  - {"question": šedá, "answer": gray, "group": noun}
+  - {"question": peníze, "answer": money, "group": noun}
+  - {"question": cena, "answer": price, "group": noun}
+  - {"question": problém, "answer": problem, "group": noun}
+  - {"question": práce, "answer": work, "group": noun}
+  - {"question": koníček, "answer": hobby, "group": noun}
+  - {"question": hudba, "answer": music, "group": noun}
+  - {"question": film, "answer": film/movie, "group": noun}
+  - {"question": seriál, "answer": TV series, "group": noun}
+  - {"question": hra, "answer": game, "group": noun}
+  - {"question": sport, "answer": sport, "group": noun}
+  - {"question": fotbal, "answer": football/soccer, "group": noun}
+  - {"question": hokej, "answer": hockey, "group": noun}
+  - {"question": basketbal, "answer": basketball, "group": noun}
+  - {"question": tenis, "answer": tennis, "group": noun}
+  - {"question": cestování, "answer": travel, "group": noun}
+  - {"question": tanec, "answer": dance, "group": noun}
+  - {"question": píseň, "answer": song, "group": noun}
+  - {"question": míč, "answer": ball, "group": noun}
+  - {"question": lékárna, "answer": pharmacy, "group": noun}
+  - {"question": lék, "answer": medicine, "group": noun}
+  - {"question": kostel, "answer": church, "group": noun}
+  - {"question": chrám, "answer": temple, "group": noun}
+  - {"question": kultura, "answer": culture, "group": noun}
+  - {"question": historie, "answer": history, "group": noun}
+  - {"question": jazyk, "answer": language, "group": noun}
+  - {"question": čeština, "answer": Czech language, "group": noun}
+  - {"question": angličtina, "answer": English language, "group": noun}
+  - {"question": němčina, "answer": German language, "group": noun}
+  - {"question": francouzština, "answer": French language, "group": noun}
+  - {"question": svět, "answer": world, "group": noun}
+  - {"question": město, "answer": city, "group": noun}
+  - {"question": vesnice, "answer": village, "group": noun}
+  - {"question": venkov, "answer": countryside, "group": noun}
+  - {"question": adresa, "answer": address, "group": noun}
+  - {"question": číslo, "answer": number, "group": noun}
+  - {"question": jméno, "answer": name, "group": noun}
+  - {"question": příjmení, "answer": surname, "group": noun}
+  - {"question": věk, "answer": age, "group": noun}
+  - {"question": narozeniny, "answer": birthday, "group": noun}
+  - {"question": pracovní pohovor, "answer": job interview, "group": noun}
+  - {"question": schůzka, "answer": meeting, "group": noun}
+  - {"question": plán, "answer": plan, "group": noun}
+  - {"question": důvod, "answer": reason, "group": noun}
+  - {"question": způsob, "answer": method, "group": noun}
+  - {"question": začátek, "answer": start, "group": noun}
+  - {"question": konec, "answer": end, "group": noun}
+  - {"question": být, "answer": to be, "group": noun}
+  - {"question": mít, "answer": to have, "group": verb}
+  - {"question": dělat, "answer": to do/make, "group": verb}
+  - {"question": jít, "answer": to go (on foot), "group": verb}
+  - {"question": jet, "answer": to go (by vehicle), "group": verb}
+  - {"question": přijít, "answer": to come, "group": verb}
+  - {"question": vidět, "answer": to see, "group": verb}
+  - {"question": jíst, "answer": to eat, "group": verb}
+  - {"question": pít, "answer": to drink, "group": verb}
+  - {"question": číst, "answer": to read, "group": verb}
+  - {"question": psát, "answer": to write, "group": verb}
+  - {"question": koupit, "answer": to buy, "group": verb}
+  - {"question": prodat, "answer": to sell, "group": verb}
+  - {"question": dát, "answer": to give, "group": verb}
+  - {"question": dostat, "answer": to get, "group": verb}
+  - {"question": otevřít, "answer": to open, "group": verb}
+  - {"question": zavřít, "answer": to close, "group": verb}
+  - {"question": chodit, "answer": to walk (habitually), "group": verb}
+  - {"question": běžet, "answer": to run, "group": verb}
+  - {"question": sedět, "answer": to sit, "group": verb}
+  - {"question": stát, "answer": to stand, "group": verb}
+  - {"question": spát, "answer": to sleep, "group": verb}
+  - {"question": vstát, "answer": to get up, "group": verb}
+  - {"question": učit se, "answer": to learn, "group": verb}
+  - {"question": učit, "answer": to teach, "group": verb}
+  - {"question": pracovat, "answer": to work, "group": verb}
+  - {"question": odpočívat, "answer": to rest, "group": verb}
+  - {"question": hrát, "answer": to play, "group": verb}
+  - {"question": mluvit, "answer": to speak, "group": verb}
+  - {"question": poslouchat, "answer": to listen, "group": verb}
+  - {"question": myslet, "answer": to think, "group": verb}
+  - {"question": vědět, "answer": to know (a fact), "group": verb}
+  - {"question": znát, "answer": to know (someone/place), "group": verb}
+  - {"question": pamtovat si, "answer": to remember, "group": verb}
+  - {"question": zapomenout, "answer": to forget, "group": verb}
+  - {"question": milovat, "answer": to love, "group": verb}
+  - {"question": mít rád, "answer": to like, "group": verb}
+  - {"question": nemít rád, "answer": to dislike, "group": verb}
+  - {"question": potřebovat, "answer": to need, "group": verb}
+  - {"question": chtít, "answer": to want, "group": verb}
+  - {"question": čekat, "answer": to wait, "group": verb}
+  - {"question": používat, "answer": to use, "group": verb}
+  - {"question": telefonovat, "answer": to call, "group": verb}
+  - {"question": cetovat , "answer": to travel, "group": verb}
+  - {"question": vařit, "answer": to cook, "group": verb}
+  - {"question": uklízet, "answer": to clean, "group": verb}
+  - {"question": připravit, "answer": to prepare, "group": verb}
+  - {"question": začít, "answer": to start, "group": verb}
+  - {"question": skončit, "answer": to finish, "group": verb}
+  - {"question": ptát se, "answer": to ask, "group": verb}
+  - {"question": odpovědět, "answer": to answer, "group": verb}
+  - {"question": smát se, "answer": to laugh, "group": verb}
+  - {"question": plakat, "answer": to cry, "group": verb}
+  - {"question": poslat, "answer": to send, "group": verb}
+  - {"question": chytit, "answer": to catch, "group": verb}
+  - {"question": položit, "answer": to put, "group": verb}
+  - {"question": vložit, "answer": to insert, "group": verb}
+  - {"question": vyjmout, "answer": to remove, "group": verb}
+  - {"question": obléknout si, "answer": to put on (clothes), "group": verb}
+  - {"question": svléknout si, "answer": to take off (clothes), "group": verb}
+  - {"question": vzít si, "answer": to take (for oneself), "group": verb}
+  - {"question": potkat, "answer": to meet, "group": verb}
+  - {"question": rozejít se, "answer": to break up, "group": verb}
+  - {"question": vtoupit , "answer": to enter, "group": verb}
+  - {"question": odejít, "answer": to leave, "group": verb}
+  - {"question": vrátit se, "answer": to return, "group": verb}
+  - {"question": objevit se, "answer": to appear, "group": verb}
+  - {"question": zmizet, "answer": to disappear, "group": verb}
+  - {"question": zkusit, "answer": to try, "group": verb}
+  - {"question": uspět, "answer": to succeed, "group": verb}
+  - {"question": selhat, "answer": to fail, "group": verb}
+  - {"question": změnit, "answer": to change, "group": verb}
+  - {"question": pokračovat, "answer": to continue, "group": verb}
+  - {"question": zastavit, "answer": to stop, "group": verb}
+  - {"question": bát se, "answer": to be afraid, "group": verb}
+  - {"question": vysvětlit, "answer": to explain, "group": verb}
+  - {"question": pozvat, "answer": to invite, "group": verb}
+  - {"question": řídit, "answer": to drive, "group": verb}
+  - {"question": nakupovat, "answer": to shop, "group": verb}
+  - {"question": oženit se, "answer": to get married (man), "group": verb}
+  - {"question": vdát se, "answer": to get married (woman), "group": verb}
+  - {"question": narodit se, "answer": to be born, "group": verb}
+  - {"question": zemřít, "answer": to die, "group": verb}
+  - {"question": žít, "answer": to live, "group": verb}
+  - {"question": vidět se, "answer": to see each other, "group": verb}
+  - {"question": slyšet, "answer": to hear, "group": verb}
+  - {"question": dobrý, "answer":  good, "group": adjective}
+  - {"question": špatný, "answer":  bad, "group": adjective}
+  - {"question": velký, "answer":  big, "group": adjective}
+  - {"question": malý, "answer":  small, "group": adjective}
+  - {"question": mnoho, "answer":  many/much, "group": adjective}
+  - {"question": málo, "answer":  few/little, "group": adjective}
+  - {"question": dlouhý, "answer":  long, "group": adjective}
+  - {"question": krátký, "answer":  short, "group": adjective}
+  - {"question": rychlý, "answer":  fast, "group": adjective}
+  - {"question": pomalý, "answer":  slow, "group": adjective}
+  - {"question": drahý, "answer":  expensive, "group": adjective}
+  - {"question": levný, "answer":  cheap, "group": adjective}
+  - {"question": horký, "answer":  hot (object), "group": adjective}
+  - {"question": studený, "answer":  cold (object), "group": adjective}
+  - {"question": teplý, "answer":  warm, "group": adjective}
+  - {"question": chladný, "answer":  cool, "group": adjective}
+  - {"question": nemocný, "answer":  sick, "group": adjective}
+  - {"question": zdravý, "answer":  healthy, "group": adjective}
+  - {"question": snadný, "answer":  easy, "group": adjective}
+  - {"question": těžký, "answer":  difficult, "group": adjective}
+  - {"question": hezký, "answer":  nice/pretty, "group": adjective}
+  - {"question": krásný, "answer":  beautiful, "group": adjective}
+  - {"question": pěkný, "answer":  lovely, "group": adjective}
+  - {"question": ošklivý, "answer":  ugly, "group": adjective}
+  - {"question": čistý, "answer":  clean, "group": adjective}
+  - {"question": špinavý, "answer":  dirty, "group": adjective}
+  - {"question": těžký, "answer":  heavy, "group": adjective}
+  - {"question": lehký, "answer":  light (weight), "group": adjective}
+  - {"question": hladový, "answer":  hungry, "group": adjective}
+  - {"question": sytý, "answer":  full (from eating), "group": adjective}
+  - {"question": ospalý, "answer":  sleepy, "group": adjective}
+  - {"question": veselý, "answer":  cheerful, "group": adjective}
+  - {"question": smutný, "answer":  sad, "group": adjective}
+  - {"question": šťastný, "answer":  happy, "group": adjective}
+  - {"question": nešťastný, "answer":  unhappy, "group": adjective}
+  - {"question": zaneprázdněný, "answer":  busy, "group": adjective}
+  - {"question": volný, "answer":  free (time), "group": adjective}
+  - {"question": nebezpečný, "answer":  dangerous, "group": adjective}
+  - {"question": bezpečný, "answer":  safe, "group": adjective}
+  - {"question": důležitý, "answer":  important, "group": adjective}
+  - {"question": potřebný, "answer":  necessary, "group": adjective}
+  - {"question": známý, "answer":  well-known, "group": adjective}
+  - {"question": chytrý, "answer":  smart, "group": adjective}
+  - {"question": mladý, "answer":  young, "group": adjective}
+  - {"question": starý, "answer":  old (person), "group": adjective}
+  - {"question": nový, "answer":  new, "group": adjective}
+  - {"question": starý, "answer":  old (object), "group": adjective}
+  - {"question": stejný, "answer":  same, "group": adjective}
+  - {"question": odlišný, "answer":  different, "group": adjective}
+  - {"question": pohodlný, "answer":  comfortable, "group": adjective}
+  - {"question": nepohodlný, "answer":  uncomfortable, "group": adjective}
+  - {"question": zajímavý, "answer":  interesting, "group": adjective}
+  - {"question": nudný, "answer":  boring, "group": adjective}
+  - {"question": velmi, "answer": very, "group": adverb}
+  - {"question": hodně, "answer": a lot, "group": adverb}
+  - {"question": opravdu, "answer": really, "group": adverb}
+  - {"question": příliš, "answer": too, "group": adverb}
+  - {"question": trochu, "answer": a little, "group": adverb}
+  - {"question": rychle, "answer": quickly, "group": adverb}
+  - {"question": pomalu, "answer": slowly, "group": adverb}
+  - {"question": vždy, "answer": always, "group": adverb}
+  - {"question": často, "answer": often, "group": adverb}
+  - {"question": někdy, "answer": sometimes, "group": adverb}
+  - {"question": nikdy, "answer": never, "group": adverb}
+  - {"question": skoro, "answer": almost, "group": adverb}
+  - {"question": už, "answer": already, "group": adverb}
+  - {"question": ještě, "answer": still/yet, "group": adverb}
+  - {"question": brzy, "answer": soon, "group": adverb}
+  - {"question": nyní, "answer": now, "group": adverb}
+  - {"question": teď, "answer": now, "group": adverb}
+  - {"question": znovu, "answer": again, "group": adverb}
+  - {"question": pak, "answer": then/after, "group": adverb}
+  - {"question": pozdě, "answer": later/late, "group": adverb}
+  - {"question": najednou, "answer": suddenly, "group": adverb}
+  - {"question": zejména, "answer": especially, "group": adverb}
+  - {"question": obvykle, "answer": usually, "group": adverb}
+  - {"question": možná, "answer": maybe, "group": adverb}
+  - {"question": jistě, "answer": surely, "group": adverb}
+  - {"question": takto, "answer": like this, "group": adverb}
+  - {"question": tak, "answer": like that, "group": adverb}
+  - {"question": společně, "answer": together, "group": adverb}
+  - {"question": sám, "answer": alone, "group": adverb}
+  - {"question": ven, "answer": outside, "group": adverb}
+  - {"question": uvnitř, "answer": inside, "group": adverb}
+  - {"question": nahoře, "answer": above, "group": adverb}
+  - {"question": dole, "answer": below, "group": adverb}
+  - {"question": vpředu, "answer": in front, "group": adverb}
+  - {"question": vzadu, "answer": behind, "group": adverb}
+  - {"question": vedle, "answer": beside, "group": adverb}
+  - {"question": blízko, "answer": nearby, "group": adverb}
+  - {"question": daleko, "answer": far away, "group": adverb}
+  - {"question": tady, "answer": here, "group": adverb}
+  - {"question": tam, "answer": there, "group": adverb}
